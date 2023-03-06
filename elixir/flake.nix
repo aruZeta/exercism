@@ -1,5 +1,5 @@
 {
-  description = "Flake with nim 1.6.6 containing dochack and tools";
+  description = "Flake with elixir";
 
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-22.11";
