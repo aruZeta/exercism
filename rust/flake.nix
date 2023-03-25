@@ -15,6 +15,7 @@
         buildInputs = with pkgs; [
           cargo
           rustc
+          rust-analyzer
         ];
       };
     };
